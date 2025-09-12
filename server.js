@@ -2,8 +2,8 @@ const http = require("http");
 
 // Create the server
 const server = http.createServer((req, res) => {
-  res.writeHead(200, { "Content-Type": "text/plain" });
-  res.end("Hello, world!");
+  res.writeHead(200, { "Content-Type": "text/html" });
+  res.end("<h1 style='text-align:center;'>Hello, world!</h1>");
 });
 
 // Start listening on port 3000
