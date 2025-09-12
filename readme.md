@@ -1,3 +1,9 @@
 # Hello, Git
 
-<p>New Feature added</p>
+<h3>New Feature added</h3>
+<ol>
+  <li> - Initiated files</li>
+  <li> - Readme created</li>
+  <li> - Frontend created</li>
+  <li> - Backend created</li>
+</ol>
