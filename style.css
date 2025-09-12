@@ -20,6 +20,10 @@ button {
   transition: 0.2s all ease;
 }
 
+ul li {
+  list-style: square;
+}
+
 button:hover {
   background-color: #b03052;
 }
