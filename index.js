@@ -1,9 +1,9 @@
 const heading = document.getElementById("main-heading");
 
 const changeColor = () => {
-  heading.style.color = "blue";
+  heading.style.color = "#715A5A";
 };
 
 const resetColor = () => {
-  heading.style.color = "#3d0301";
+  heading.style.color = "#D3DAD9";
 };

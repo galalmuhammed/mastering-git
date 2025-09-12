@@ -1,6 +1,6 @@
 body {
-  background-color: #ebe8db;
-  color: #3d0301;
+  background-color: #44444E;
+  color: #D3DAD9;
 }
 
 .container {
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-  background-color: #3d0301;
+  background-color: #715A5A;
   color: white;
   font-weight: bold;
   border: none;
